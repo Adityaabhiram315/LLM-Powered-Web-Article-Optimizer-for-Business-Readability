@@ -1,7 +1,7 @@
 # LLM-Powered Web Article Optimizer for Business Readability
 
 Built with Gemini API and Streamlit, this AI-driven app automatically enhances business web content by over 60% in readability and structure. It uses real-time NLP and intelligent web crawling to make complex technical documentation clear and accessible for non-technical users.
-![image](https://github.com/user-attachments/assets/578c997b-9e69-4003-9c15-03387d922e11)
+
 
 ---
 
